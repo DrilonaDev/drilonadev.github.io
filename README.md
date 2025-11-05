@@ -27,5 +27,5 @@ Der Fokus liegt auf **übersichtlichem Design**, **technischer Stabilität** und
 ### 📬 Kontakt
 
 Erstellt von **Drilona**
-Website: [https://drilona.dev](https://drilona.dev)
+Website: [https://drilona.dev](https://drilonadev.github.io/)
 E-Mail: [drilona.dev@gmail.com](mailto:drilona.dev@gmail.com)
